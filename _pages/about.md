@@ -6,7 +6,7 @@ description: <a href="http://en.scu.edu.cn/">Sichuan University</a>. Chengdu, Ch
 
 profile:
   align: right
-  image: profig.jpg
+  image: me.jpg
   address: >
     <p>Room B316, College of CS</p>
     <p><a href="http://en.scu.edu.cn/">Sichuan University</a></p>
