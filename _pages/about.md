@@ -18,4 +18,4 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! My name is Pengxin Zeng (曾鹏鑫). I’m a graduate student from College of Computer Science, Sichuan Univerisity, China. Currently, I’m a student of Professor Xi Peng [[website](http://pengxi.me/)].
 
-My major interests include Computer Vision and Deep Learning. For now I focus on the multimodal learning and unsupervised learning, which can be unified to the framework of Representation Learning.
+My major interests include Multi-modal Learning and Deep Learning. For now I focus on the multi-modal learning and unsupervised learning, which I believe can be unified to the framework of Representation Learning.
