@@ -3,8 +3,9 @@
   {% if site.news  %}
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
-      {% assign news = site.PHDnews | reverse %}
+      {% assign news = site.news | reverse %}
       {% for item in news limit: site.news_limit %}
+        {% if item.PHD %}
         <tr>
 <!--           <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th> -->
           <td>
@@ -15,6 +16,7 @@
             {% endif %}
           </td>
         </tr>
+        {% endif %}
       {% endfor %}
       </table>
     </div>
