@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2023-5-24 00:00:00+0800
+date: 2023-01-01 00:00:00+0800
 inline: true
+PHD:true
 ---
 I am planning to pursue the Ph.D. degree in 2024 Fall. If we can have some collaborations to work on some interesting problems, please feel free to send me an E-mail ([zengpengxin.gm@gmail.com](mailto:zengpengxin.gm@gmail.com)). 
 
