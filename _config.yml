@@ -104,7 +104,7 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /news/:path/
+    permalink: /newsPHD/:path/
   projects:
     output: true
     permalink: /projects/:path/
