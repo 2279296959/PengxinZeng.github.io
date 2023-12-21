@@ -100,11 +100,6 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  PHDnews:
-    defaults:
-      layout: post
-    output: true
-    permalink: /newsPHD/:path/
   projects:
     output: true
     permalink: /projects/:path/
