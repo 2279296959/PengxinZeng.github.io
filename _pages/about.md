@@ -19,4 +19,4 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! My name is Pengxin Zeng (曾鹏鑫). I’m a graduate student from the College of Computer Science, Sichuan Univerisity, China. Currently, I’m a student of Professor Xi Peng [[website](http://pengxi.me/)].
 
-My major interests include 3D Vision and Multi-modal Learning for autonomous driving. 
+My major interests include 3D Vision and Multi-modal Learning for Safe Autonomous Driving. 
