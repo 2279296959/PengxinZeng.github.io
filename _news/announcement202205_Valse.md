@@ -4,6 +4,6 @@ date: 2022-8-23 00:00:00+0800
 inline: true
 PHD: false
 ---
-Poster presentation in Vision and Learning Seminar (Valse) 2022, Tianjin. XAI Beyond Classification: Interpretable Neural Clustering (JMLR 2022).
+Poster presentation in Vision and Learning Seminar (Valse) 2022, Tianjin. XAI Beyond Classification: Interpretable Neural Clustering (JMLR 2022). TEST
 
 
